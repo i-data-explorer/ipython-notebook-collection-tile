@@ -6,10 +6,11 @@
   "category_label": ["Notebook"],
   "de_catalog_id": "ipython_notebook_collection",
   "categories": [
-    "General"
+    "Machine Learning",
+    "Education"
   ],
   "tag":[],
   "git_url": "",
   "git_commit": "",
-  "installTime": "5 minutes"
+  "installTime": "2 minutes"
 }
