@@ -12,7 +12,7 @@
   "buckets":[],
   "meta": {
     "Install time": [
-      "5 minutes"
+      "2 minutes"
     ],
     "Type": [
       "Notebook"
@@ -21,7 +21,8 @@
       "IPython Dataset"
     ],
     "Categories": [
-      "General"
+      "Machine Learning",
+      "Education"
     ],
     "Catalog Id": [
       "ipython_notebook_collection"
