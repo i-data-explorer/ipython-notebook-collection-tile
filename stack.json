@@ -1,0 +1,15 @@
+{
+  "title": "IPython Notebook Collection",
+  "description": "A collection of IPython notebooks covering various topics",
+  "logo": "_images/dataset.png",
+  "enabled": true,
+  "category_label": ["Notebook"],
+  "de_catalog_id": "ipython_notebook_collection",
+  "categories": [
+    "General"
+  ],
+  "tag":[],
+  "git_url": "",
+  "git_commit": "",
+  "installTime": "5 minutes"
+}
