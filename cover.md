@@ -5,96 +5,142 @@ This repo contains various IPython notebooks to experiment with libraries and wo
 
 #### Language
 
-These notebooks contain introductory content such as an overview of the language and a review of IPython's functionality.
+These notebooks contain introductory content such as an overview of the language and a review of IPython's functionality. 
 
-<a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/language/Intro.ipynb">Introduction To Python</a><br/>
-<a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/language/IPythonMagic.ipynb">IPython Magic Commands</a>
+| Topic                  | Notebook Path                                                |
+| ---------------------- | ------------------------------------------------------------ |
+| Introduction To Python | /home/jupyter-user/ipython_notebook_collection/notebooks/language/Intro.ipynb |
+| IPython Magic Commands | /home/jupyter-user/ipython_notebook_collection/notebooks/language/IPythonMagic.ipynb |
+
+
+
 
 #### Libraries
 
 Examples using a variety of popular "data science" Python libraries.
 
-<a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/libraries/NumPy.ipynb">NumPy</a><br/>
-<a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/libraries/SciPy.ipynb">SciPy</a><br/>
-<a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/libraries/Matplotlib.ipynb">Matplotlib</a><br/>
-<a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/libraries/Pandas.ipynb">Pandas</a><br/>
-<a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/libraries/Statsmodels.ipynb">Statsmodels</a><br/>
-<a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/libraries/Scikit-learn.ipynb">Scikit-learn</a><br/>
-<a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/libraries/Seaborn.ipynb">Seaborn</a><br/>
-<a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/libraries/NetworkX.ipynb">NetworkX</a><br/>
-<a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/libraries/PyMC.ipynb">PyMC</a><br/>
-<a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/libraries/NLTK.ipynb">NLTK</a><br/>
-<a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/libraries/DEAP.ipynb">DEAP</a><br/>
-<a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/libraries/Gensim.ipynb">Gensim</a>
+| Topics       | Notebook Path                                                |
+| ------------ | ------------------------------------------------------------ |
+| NumPy        | /home/jupyter-user/ipython_notebook_collection/notebooks/libraries/NumPy.ipynb |
+| SciPy        | /home/jupyter-user/ipython_notebook_collection/notebooks/libraries/SciPy.ipynb |
+| Matplotlib   | /home/jupyter-user/ipython_notebook_collection/notebooks/libraries/Matplotlib.ipynb |
+| Pandas       | /home/jupyter-user/ipython_notebook_collection/notebooks/libraries/Pandas.ipynb |
+| Statsmodels  | /home/jupyter-user/ipython_notebook_collection/notebooks/libraries/Statsmodels.ipynb |
+| Scikit-learn | /home/jupyter-user/ipython_notebook_collection/notebooks/libraries/Scikit-learn.ipynb |
+| Seaborn      | /home/jupyter-user/ipython_notebook_collection/notebooks/libraries/Seaborn.ipynb |
+| NetworkX     | /home/jupyter-user/ipython_notebook_collection/notebooks/libraries/NetworkX.ipynb |
+| PyMC         | /home/jupyter-user/ipython_notebook_collection/notebooks/libraries/PyMC.ipynb |
+| NLTK         | /home/jupyter-user/ipython_notebook_collection/notebooks/libraries/NLTK.ipynb |
+| DEAP         | /home/jupyter-user/ipython_notebook_collection/notebooks/libraries/DEAP.ipynb |
+| Gensim       | /home/jupyter-user/ipython_notebook_collection/notebooks/libraries/Gensim.ipynb |
+
+
 
 #### Machine Learning Exercises
 
 Implementations of the exercises presented in Andrew Ng's "Machine Learning" class on Coursera.
 
-<a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/ml/ML-Exercise1.ipynb">Exercise 1 - Linear Regression</a><br/>
-<a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/ml/ML-Exercise2.ipynb">Exercise 2 - Logistic Regression</a><br/>
-<a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/ml/ML-Exercise3.ipynb">Exercise 3 - Multi-Class Classification</a><br/>
-<a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/ml/ML-Exercise4.ipynb">Exercise 4 - Neural Networks</a><br/>
-<a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/ml/ML-Exercise6.ipynb">Exercise 6 - Support Vector Machines</a><br/>
-<a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/ml/ML-Exercise7.ipynb">Exercise 7 - K-Means Clustering & PCA</a><br/>
-<a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/ml/ML-Exercise8.ipynb">Exercise 8 - Anomaly Detection & Recommendation Systems</a>
+| Exercise                                                | Notebook Path                                                |
+| ------------------------------------------------------- | ------------------------------------------------------------ |
+| Exercise 1 - Linear Regression                          | /home/jupyter-user/ipython_notebook_collection/notebooks/ml/ML-Exercise1.ipynb |
+| Exercise 2 - Logistic Regression                        | /home/jupyter-user/ipython_notebook_collection/notebooks/ml/ML-Exercise2.ipynb |
+| Exercise 3 - Multi-Class Classification                 | /home/jupyter-user/ipython_notebook_collection/notebooks/ml/ML-Exercise3.ipynb |
+| Exercise 4 - Neural Networks                            | /home/jupyter-user/ipython_notebook_collection/notebooks/ml/ML-Exercise4.ipynb |
+| Exercise 6 - Support Vector Machines                    | /home/jupyter-user/ipython_notebook_collection/notebooks/ml/ML-Exercise6.ipynb |
+| Exercise 7 - K-Means Clustering & PCA                   | /home/jupyter-user/ipython_notebook_collection/notebooks/ml/ML-Exercise7.ipynb |
+| Exercise 8 - Anomaly Detection & Recommendation Systems | /home/jupyter-user/ipython_notebook_collection/notebooks/ml/ML-Exercise8.ipynb |
+
+
 
 #### Tensorflow Deep Learning Exercises
 
 Implementations of the assignments from Google's Udacity course on deep learning.
 
-<a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/tensorflow/Tensorflow-1-NotMNIST.ipynb">Assignment 1 - Intro & Data Prep</a><br/>
-<a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/tensorflow/Tensorflow-2-FullyConnected.ipynb">Assignment 2 - Regression & Neural Nets</a><br/>
-<a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/tensorflow/Tensorflow-3-Regularization.ipynb">Assignment 3 - Regularization</a><br/>
-<a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/tensorflow/Tensorflow-4-Convolutions.ipynb">Assignment 4 - Convolutions</a><br/>
-<a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/tensorflow/Tensorflow-5-Word2Vec.ipynb">Assignment 5 - Word Embeddings</a><br/>
-<a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/tensorflow/Tensorflow-6-LSTM.ipynb">Assignment 6 - Recurrent Nets</a>
+| Assignment                              | Notebook Path                                                |
+| --------------------------------------- | ------------------------------------------------------------ |
+| Assignment 1 - Intro & Data Prep        | /home/jupyter-user/ipython_notebook_collection/notebooks/tensorflow/Tensorflow-1-NotMNIST.ipynb |
+| Assignment 2 - Regression & Neural Nets | /home/jupyter-user/ipython_notebook_collection/notebooks/tensorflow/Tensorflow-2-FullyConnected.ipynb |
+| Assignment 3 - Regularization           | /home/jupyter-user/ipython_notebook_collection/notebooks/tensorflow/Tensorflow-3-Regularization.ipynb |
+| Assignment 4 - Convolutions             | /home/jupyter-user/ipython_notebook_collection/notebooks/tensorflow/Tensorflow-4-Convolutions.ipynb |
+| Assignment 5 - Word Embeddings          | /home/jupyter-user/ipython_notebook_collection/notebooks/tensorflow/Tensorflow-5-Word2Vec.ipynb |
+| Assignment 6 - Recurrent Nets           | /home/jupyter-user/ipython_notebook_collection/notebooks/tensorflow/Tensorflow-6-LSTM.ipynb |
+
+  
 
 #### Spark Big Data Labs
 
 Lab exercises for the original Spark classes on edX.
 
-<a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/spark/Spark-Lab0-Tutorial.ipynb">Lab 0 - Learning Apache Spark</a><br/>
-<a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/spark/Spark-Lab1-WordCount.ipynb">Lab 1 - Building A Word Count Application</a><br/>
-<a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/spark/Spark-Lab2-ApacheLog.ipynb">Lab 2 - Web Server Log Analysis</a><br/>
-<a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/spark/Spark-Lab3-EntityResolution.ipynb">Lab 3 - Text Analysis & Entity Resolution</a><br/>
-<a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/spark/Spark-Lab4-MachineLearning.ipynb">Lab 4 - Introduction To Machine Learning</a><br/>
-<a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/spark/Spark-ML-Lab3-LinearRegression.ipynb">ML Lab 3 - Linear Regression</a><br/>
-<a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/spark/Spark-ML-Lab4-CriteoPrediction.ipynb">ML Lab 4 - Click-Through Rate Prediction</a><br/>
-<a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/spark/Spark-ML-Lab5-NeuroPCA.ipynb">ML Lab 5 - Principal Component Analysis</a>
+| Labs                                      | Notebook Path                                                |
+| ----------------------------------------- | ------------------------------------------------------------ |
+| Lab 0 - Learning Apache Spark             | /home/jupyter-user/ipython_notebook_collection/notebooks/spark/Spark-Lab0-Tutorial.ipynb |
+| Lab 1 - Building A Word Count Application | /home/jupyter-user/ipython_notebook_collection/notebooks/spark/Spark-Lab1-WordCount.ipynb |
+| Lab 2 - Web Server Log Analysis           | /home/jupyter-user/ipython_notebook_collection/notebooks/spark/Spark-Lab2-ApacheLog.ipynb |
+| Lab 3 - Text Analysis & Entity Resolution | /home/jupyter-user/ipython_notebook_collection/notebooks/spark/Spark-Lab3-EntityResolution.ipynb |
+| Lab 4 - Introduction To Machine Learning  | /home/jupyter-user/ipython_notebook_collection/notebooks/spark/Spark-Lab4-MachineLearning.ipynb |
+| ML Lab 3 - Linear Regression              | /home/jupyter-user/ipython_notebook_collection/notebooks/spark/Spark-ML-Lab3-LinearRegression.ipynb |
+| ML Lab 4 - Click-Through Rate Prediction  | /home/jupyter-user/ipython_notebook_collection/notebooks/spark/Spark-ML-Lab4-CriteoPrediction.ipynb |
+| ML Lab 5 - Principal Component Analysis   | /home/jupyter-user/ipython_notebook_collection/notebooks/spark/Spark-ML-Lab5-NeuroPCA.ipynb |
+
+  
 
 ### Fast.ai Lessons
 
 Notebooks from Jeremy Howard's fast.ai class.
 
-<a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/fastai/Fastai-Lesson1.ipynb">Lesson 1 - Image Classification</a><br/>
-<a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/fastai/Fastai-Lesson2.ipynb">Lesson 2 - Multi-label Classification</a><br/>
-<a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/fastai/Fastai-Lesson3.ipynb">Lesson 3 - Structured And Time Series Data</a><br/>
-<a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/fastai/Fastai-Lesson4.ipynb">Lesson 4 - Sentiment Classification</a><br/>
-<a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/fastai/Fastai-Lesson5.ipynb">Lesson 5 - Recommendation Using Deep Learning</a><br/>
-<a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/fastai/Fastai-Lesson6.ipynb">Lesson 6 - Language Modeling With RNNs</a><br/>
-<a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/fastai/Fastai-Lesson7.ipynb">Lesson 7 - Convolutional Networks In Detail</a>
+| Lessons                                       | Notebook Path                                                |
+| --------------------------------------------- | ------------------------------------------------------------ |
+| Lesson 1 - Image Classification               | /home/jupyter-user/ipython_notebook_collection/notebooks/fastai/Fastai-Lesson1.ipynb |
+| Lesson 2 - Multi-label Classification         | /home/jupyter-user/ipython_notebook_collection/notebooks/fastai/Fastai-Lesson2.ipynb |
+| Lesson 3 - Structured And Time Series Data    | /home/jupyter-user/ipython_notebook_collection/notebooks/fastai/Fastai-Lesson3.ipynb |
+| Lesson 4 - Sentiment Classification           | /home/jupyter-user/ipython_notebook_collection/notebooks/fastai/Fastai-Lesson4.ipynb |
+| Lesson 5 - Recommendation Using Deep Learning | /home/jupyter-user/ipython_notebook_collection/notebooks/fastai/Fastai-Lesson5.ipynb |
+| Lesson 6 - Language Modeling With RNNs        | /home/jupyter-user/ipython_notebook_collection/notebooks/fastai/Fastai-Lesson6.ipynb |
+| Lesson 7 - Convolutional Networks In Detail   | /home/jupyter-user/ipython_notebook_collection/notebooks/fastai/Fastai-Lesson7.ipynb |
+
+ 
 
 ### Deep Learning With Keras
 
 Notebooks using Keras to implement deep learning models.
 
-<a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/keras/StructuredTimeSeries.ipynb">Part 1 - Structured And Time Series Data</a><br/>
-<a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/keras/ConvolutionalNetworks.ipynb">Part 2 - Convolutional Networks</a><br/>
-<a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/keras/RecommenderSystems.ipynb">Part 3 - Recommender Systems</a><br/>
-<a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/keras/RecurrentNetworks.ipynb">Part 4 - Recurrent Networks</a><br/>
-<a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/keras/AnomalyDetection.ipynb">Part 5 - Anomaly Detection</a><br/>
-<a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/keras/GenerativeAdversarialNetworks.ipynb">Part 6 - Generative Adversarial Networks</a>
+|                                          | Notebook Path                                                |
+| ---------------------------------------- | ------------------------------------------------------------ |
+| Part 1 - Structured And Time Series Data | /home/jupyter-user/ipython_notebook_collection/notebooks/keras/StructuredTimeSeries.ipynb |
+| Part 2 - Convolutional Networks          | /home/jupyter-user/ipython_notebook_collection/notebooks/keras/ConvolutionalNetworks.ipynb |
+| Part 3 - Recommender Systems             | /home/jupyter-user/ipython_notebook_collection/notebooks/keras/RecommenderSystems.ipynb |
+| Part 4 - Recurrent Networks              | /home/jupyter-user/ipython_notebook_collection/notebooks/keras/RecurrentNetworks.ipynb |
+| Part 5 - Anomaly Detection               | /home/jupyter-user/ipython_notebook_collection/notebooks/keras/AnomalyDetection.ipynb |
+| Part 6 - Generative Adversarial Networks | /home/jupyter-user/ipython_notebook_collection/notebooks/keras/GenerativeAdversarialNetworks.ipynb |
+
+ 
+
+  
+
+
+ 
 
 #### Misc
 
 Notebooks covering various interesting topics!
 
-<a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/misc/CodeOptimization.ipynb">Comparison Of Various Code Optimization Methods</a><br/>
-<a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/misc/TimeSeriesStockAnalysis.ipynb">A Simple Time Series Analysis of the S&P 500 Index</a><br/>
-<a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/misc/ProbablisticProgramming.ipynb">An Intro To Probablistic Programming</a><br/>
-<a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/misc/LanguageVectors.ipynb">Language Exploration Using Vector Space Models</a><br/>
-<a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/misc/DynamicProgramming.ipynb">Solving Problems With Dynamic Programming</a><br/>
-<a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/misc/ProphetForecasting.ipynb">Time Series Forecasting With Prophet</a><br/>
-<a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/misc/MarkovChains.ipynb">Markov Chains From Scratch</a><br/>
-<a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/misc/MonteCarlo.ipynb">A Sampling Of Monte Carlo Methods</a>
+| Topics                                             | Notebook Path                                                |
+| -------------------------------------------------- | ------------------------------------------------------------ |
+| Comparison Of Various Code Optimization Methods    | /home/jupyter-user/ipython_notebook_collection/notebooks/misc/CodeOptimization.ipynb |
+| A Simple Time Series Analysis of the S&P 500 Index | /home/jupyter-user/ipython_notebook_collection/notebooks/misc/TimeSeriesStockAnalysis.ipynb |
+| An Intro To Probablistic Programming               | /home/jupyter-user/ipython_notebook_collection/notebooks/misc/ProbablisticProgramming.ipynb |
+| Language Exploration Using Vector Space Models     | /home/jupyter-user/ipython_notebook_collection/notebooks/misc/LanguageVectors.ipynb |
+| Solving Problems With Dynamic Programming          | /home/jupyter-user/ipython_notebook_collection/notebooks/misc/DynamicProgramming.ipynb |
+| Time Series Forecasting With Prophet               | /home/jupyter-user/ipython_notebook_collection/notebooks/misc/ProphetForecasting.ipynb |
+| Markov Chains From Scratch                         | /home/jupyter-user/ipython_notebook_collection/notebooks/misc/MarkovChains.ipynb |
+| A Sampling Of Monte Carlo Methods                  | /home/jupyter-user/ipython_notebook_collection/notebooks/misc/MonteCarlo.ipynb |
+
+ 
+
+  
+
+  
+
+
+  
+ 
