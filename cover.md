@@ -1,8 +1,6 @@
 ipython-notebooks
 ========================
 
-<a href="https://notebooks.azure.com/import/gh/jdwittenauer/ipython-notebooks"><img src="https://notebooks.azure.com/launch.png" /></a>
-
 This repo contains various IPython notebooks to experiment with libraries and work through exercises. Click the link to see a live rendering of the notebook.
 
 #### Language
