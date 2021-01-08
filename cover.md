@@ -1,7 +1,7 @@
-ipython-notebooks
+IPython-notebooks
 ========================
 
-This repo contains various IPython notebooks to experiment with libraries and work through exercises. Click the link to see a live rendering of the notebook.
+This repository contains various IPython notebooks to experiment with libraries and work through exercises.
 
 #### Language
 
