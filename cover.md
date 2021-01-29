@@ -1,7 +1,7 @@
 IPython-notebooks
 ========================
 
-This repository contains various IPython notebooks to experiment with libraries and work through exercises.
+This collection contains various IPython notebooks to experiment with libraries and work through exercises.
 
 * Introductory content such as an overview of the language and a review of IPython's functionality. 
 * Examples using a variety of popular "data science" Python libraries.
